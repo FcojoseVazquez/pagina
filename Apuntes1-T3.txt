@@ -1,0 +1,8 @@
+DNS
+
+TLDs (Top Level Domains) - Extension de direccion
+
+Servidor raiz
+
+Servidor DNS de resolucion -- Sabe la direccion de los servidores de raiz
+  
